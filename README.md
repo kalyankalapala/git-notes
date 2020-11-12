@@ -1,2 +1,2 @@
 # git-notes
-GIT BASIC 
+GIT BASIC notes
